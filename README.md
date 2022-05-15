@@ -57,4 +57,5 @@ Referințe:
 Link video youtube:
 
 Link heroku backend: https://desolate-coast-60481.herokuapp.com/ 
+
 Link heroku frontend: https://immense-plains-59244.herokuapp.com/ 
